@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning more about Flutter and Artificial intelligence.
 - 💬 Let's talk about Flutter or any tech related stuff.
 - 📫 How to reach me: 
-    [Telegram - @felipebufelli](https://t.me/felipebufelli)
+    Telegram - [@felipebufelli](https://t.me/felipebufelli)
     Gmail - felipe.bufelli@gmail.com
 
 **Languages and Tools:**  
