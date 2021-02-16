@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <a href="https://github.com/felipebufelli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebufelli&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebufelli&theme=dark" />
 </a>
 
 
