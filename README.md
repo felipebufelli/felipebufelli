@@ -31,11 +31,11 @@
 <br/>
 <br/>
 <a href="https://github.com/felipebufelli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebufelli&theme=dark&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebufelli&theme=dark&layout=compact" />
 </a>
 
 <a href="https://github.com/felipebufelli/gif_finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipebufelli&repo=gif_finder&show_owner=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=felipebufelli&repo=gif_finder&show_owner=true&theme=dark" />
 </a>
 
 
