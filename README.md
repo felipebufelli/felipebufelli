@@ -30,7 +30,6 @@
 <code><img height="30" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
 <code><img height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1"></code>
 <code><img height="30" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png"></code>
-<code><img height="30" src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png"></code>
 
 <br/>
 <br/>
