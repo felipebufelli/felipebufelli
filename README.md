@@ -30,7 +30,7 @@
 <code><img height="30" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
 <code><img height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1"></code>
 <code><img height="30" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png"></code>
-<code><img height="30" src="[https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png](https://banner2.cleanpng.com/20180509/gvq/kisspng-computer-icons-python-programming-language-5af3b9e657db44.4301672315259222783599.jpg)"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180509/gvq/kisspng-computer-icons-python-programming-language-5af3b9e657db44.4301672315259222783599.jpg"></code>
 
 <br/>
 <br/>
