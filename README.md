@@ -14,8 +14,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [WBC Sistemas](https://www.wbcsistemas.com) projetcts.
-- 🌱 I’m currently learning more about Flutter and Node.js.
+- 🔭 I’m currently working on [Portão 3](https://www.portao3.com.br/) projetcts.
+- 🌱 I’m currently learning more about Flutter and Node.js/Typescript.
 - 📫 How to reach me: 
     Telegram - [@felipebufelli](https://t.me/felipebufelli)
     Gmail - felipe.bufelli@gmail.com
