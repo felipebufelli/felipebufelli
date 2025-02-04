@@ -19,6 +19,7 @@
 - 📫 How to reach me: 
     Telegram - [@felipebufelli](https://t.me/felipebufelli)
     Gmail - felipe.bufelli@gmail.com
+- 🎓 I also teach Python and work as a freelancer.
 <br/>
 <br/>
 
